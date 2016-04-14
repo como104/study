@@ -1,5 +1,5 @@
 #!/bin/bash
-#Samba backup shell version 1.0 create on 2016/4/6 by Jensen
+#Samba backup shell version 1.1 create on 2016/4/6 by Jensen.Version1.1 modifid on 2016/4/14 by Jensen.
 
 USER=backup
 PASSWORD=kis@5688
